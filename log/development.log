@@ -1,0 +1,2 @@
+  [1m[35m (992.6ms)[0m  [1m[35mCREATE DATABASE "climb_app_api_development" ENCODING = 'unicode'[0m
+  [1m[35m (352.8ms)[0m  [1m[35mCREATE DATABASE "climb_app_api_test" ENCODING = 'unicode'[0m
